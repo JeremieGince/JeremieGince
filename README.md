@@ -16,4 +16,4 @@ Summary:
 - 🤔 I’m looking for help with Game dev or Artist in [PhysXGamesStudio](https://github.com/PhysX-Games).
 - 📫 How to reach me: jeremie.gince.1@ulaval.ca
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jérémie_Gince-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/anthony-drouin-814898212/](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-gince-7b64861b2/))
+[![Linkedin Badge](https://img.shields.io/badge/-Jérémie_Gince-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-gince-7b64861b2/)
