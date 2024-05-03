@@ -11,7 +11,7 @@ Excited to continue pushing the boundaries of knowledge and technology at the in
 
 Summary:
 --------
-- 🔭 I’m currently working on [PhysXGamesStudio](https://github.com/PhysX-Games) and [NeuroTorch](https://github.com/NeuroTorch).
+- 🔭 I’m currently working on [PhysXGamesStudio](https://github.com/PhysX-Games), [MatchCake](https://github.com/MatchCake) and [NeuroTorch](https://github.com/NeuroTorch).
 - 🌱 I’m currently learning: Game developpement and quantum computing.
 - 🤔 I’m looking for help with Game dev or Artist in [PhysXGamesStudio](https://github.com/PhysX-Games).
 - 📫 How to reach me: Jeremie.Gince@USherbrooke.ca
